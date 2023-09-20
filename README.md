@@ -36,7 +36,7 @@ The program will return the moves that were used be the sorting algorithm.
 
 ## Method
 
-I decided to use a sorting method that made the most sense to me. The basic idea was to push the integers in groups into stack b, starting from the smallest numbers. (for example: group 1 = numbers 0-20 and so on...) When everything was in stack b, they were already semi-sorted and all I had to do was to push them back into stack a, this time starting from the largest nunber.
+I decided to use a sorting method that made the most sense to me. The basic idea was to push the integers in groups into stack b, starting from the smallest numbers. (for example: group 1 = numbers 0-20 and so on...) When everything was in stack b, they were already semi-sorted and all I had to do was to push them back into stack a, this time starting from the largest number.
 
 ## Helpful
 
